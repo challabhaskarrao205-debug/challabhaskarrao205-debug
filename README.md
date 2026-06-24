@@ -2,21 +2,27 @@ HI THIS IS BHASKAR(AKA CHARAN)
 
 
 🎓 Education
+
 B.Tech in Computer Science Engineering @ SRM Institute of Science and Technology, Trichy
 
 🚀 Currently Building
+
 CareerLift — an AI-powered platform focused on career growth and interview preparation
 
 📚 Currently Learning
+
 Data Structures & Algorithms | Problem Solving | Core CS Fundamentals
 
 🤝 Open To
+
 Collaborations, networking, and connecting with fellow developers & creators
 
 🎥 Beyond Tech
+
 Photography | Videography | Video Editing | Creative Storytelling
 
 🎯 Goal
+
 To grow as a developer, build impactful products, and achieve strong industry-ready skills
 
 
